@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.banner {
+ 
+    overflow: hidden ; 
+    position: relative;
+    border-radius: 5px ; 
+}
+.banner .container {
+	 
+	width : 155117px ; 
+    height: 100% ; 
+    position: absolute;
+       
+}
+.banner .container div {
+	background-color: blue; 
+    height:100% ; 
+    display: inline-block ; 
+    float: left ; 
+}
+
+.banner .container div img {
+	height:100% ; 
+	width : 100% ; 
+}
